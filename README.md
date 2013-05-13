@@ -153,7 +153,7 @@ Como frontend engineer do time de operações
 
 ## [Testes](id:Testes)
 * [KaNois](https://github.com/Kanui/QueroSerKanui/tree/master/testes/kanois)
-* [Word Rank](https://github.com/Kanui/QueroSerKanui/tree/master/word-rank)
+* [Word Rank](https://github.com/Kanui/QueroSerKanui/tree/master/testes/word-rank)
 
 
 ## [Nossos Links](id:Extra-Links)
