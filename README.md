@@ -14,9 +14,6 @@ Próximo a estação Villa Lobos - Jaguaré, em São Paulo, SP.
 ### Como me candidato?
 Forka esse projeto, escolha um dos testes, resolva com sua linguagem favorita e faça um Pull Request.
 
-### E o salário?
-Calma. Na Kanui, oferecemos um salário.
-
 ### O que preciso?
 * Ter graduação é legal! Mas se você não for formado, não tem problema. Conhecemos vários caras fodas que não são formados.
 
