@@ -5,7 +5,7 @@ Bom, primeiro você tem que saber que queremos no nosso time gente que **ama** a
 Agora, vamos lá:
 
 * [O que é a Kanui?](#OqueEhAKanui)
-* [Sobre as vagas?](#SobreAsVagas)
+* [Sobre as vagas](#SobreAsVagas)
 * [Localização](#Localizacao)
 * [Como me candidato?](#ComoMeCandidato)
 * [Requisitos básicos](#RequisitosBasicos)
