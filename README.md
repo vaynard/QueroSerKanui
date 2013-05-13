@@ -85,7 +85,6 @@ Como Software Engineer no time CPS da Kanui, você irá criar e implementar solu
 [+ Qualificações](#Qualificacoes-FE)
 
 ## [Qualificações](id:Qualificacoes)
-====
 #### [Software Engineer](id:Qualificacoes-SE)
 **Qualificações mínimas**
 
@@ -135,7 +134,6 @@ Como frontend engineer do time de operações
 
 
 ## [Condições e Benefícios](id:CondicoesEBeneficios)
-====
 * Regime: CLT;
 * Período: Integral;
 * Contratação: Imediata;
@@ -154,13 +152,11 @@ Como frontend engineer do time de operações
 * [Lightning Talk](http://en.wikipedia.org/wiki/Lightning_talk)'s;
 
 ## [Testes](id:Testes)
-====
 * [KaNois](https://github.com/Kanui/QueroSerKanui/tree/master/testes/kans)
 * [Word Rank](https://github.com/Kanui/QueroSerKanui/tree/master/word-ran 
 k)
 
 
 ## [Nossos Links](id:Extra-Links)
-====
 * [Kanui](http://www.kanui.com.br/)
 * [CoderWall](https://coderwall.com/team/kanui)
