@@ -152,9 +152,8 @@ Como frontend engineer do time de operações
 * [Lightning Talk](http://en.wikipedia.org/wiki/Lightning_talk)'s;
 
 ## [Testes](id:Testes)
-* [KaNois](https://github.com/Kanui/QueroSerKanui/tree/master/testes/kans)
-* [Word Rank](https://github.com/Kanui/QueroSerKanui/tree/master/word-ran 
-k)
+* [KaNois](https://github.com/Kanui/QueroSerKanui/tree/master/testes/kanois)
+* [Word Rank](https://github.com/Kanui/QueroSerKanui/tree/master/word-rank)
 
 
 ## [Nossos Links](id:Extra-Links)
