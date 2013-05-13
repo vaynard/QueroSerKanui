@@ -110,8 +110,6 @@ Como Software Engineer no time CPS da Kanui, você irá criar e implementar solu
 * ActiveMQ;
 
 #### [Frontend Engineer](id:Qualificacoes-FE)
-Como frontend engineer do time de operações
-
 **Qualificações mínimas**
 
 * HTML (principalmente semântica);
