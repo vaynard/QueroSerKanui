@@ -8,5 +8,3 @@ Escreva um programa em sua linguagem favorita, que escreva números de **1** à 
 	y
 	z
 	[...]
-	
-	
