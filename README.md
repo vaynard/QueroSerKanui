@@ -1,6 +1,6 @@
 # Quero ser Kanui!
 
-Bom, primeiro você tem que saber que queremos no nosso time gente que **ama** a profissao: Que ama programar, resolver problemas complexos, conhecer novas tecnologias, frameworks, linguagens e padrões. A Kanui remunera seus funcionários de forma justa e acima da média do mercado, mas se você está procurando apenas grana, nem perca seu tempo... O lance é **pagamos bem porque valorizamos o seu trabalho**.
+Bom, primeiro você tem que saber que queremos no nosso time gente que **ama** a profissão: que ama programar, resolver problemas complexos, conhecer novas tecnologias, frameworks, linguagens e padrões.
 
 Agora, vamos lá:
 
