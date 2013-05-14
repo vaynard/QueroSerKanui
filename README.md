@@ -1,6 +1,6 @@
 # Quero ser Kanui!
 
-Bom, primeiro você tem que saber que queremos no nosso time gente que **ama** a profissao: Que ama programar, resolver problemas complexos, conhecer novas tecnologias, frameworks, linguagens e padrões, portanto, se você está nessa só por que dá **$ dinheiro $**, por favor, não se candidate.
+Bom, primeiro você tem que saber que queremos no nosso time gente que **ama** a profissao: Que ama programar, resolver problemas complexos, conhecer novas tecnologias, frameworks, linguagens e padrões. A Kanui remunera seus funcionários de forma justa e acima da média do mercado, mas se você está procurando apenas grana, nem perca seu tempo...
 
 Agora, vamos lá:
 
@@ -135,7 +135,6 @@ Como Software Engineer no time CPS da Kanui, você irá criar e implementar solu
 * Regime: CLT;
 * Período: Integral;
 * Contratação: Imediata;
-* Salário na média de mercado;
 * VT;
 * VR (sem descontos);
 * Plano de saúde (sem descontos);
