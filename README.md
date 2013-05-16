@@ -49,7 +49,7 @@ Próximo a estação Villa Lobos - Jaguaré, em São Paulo, SP.
 3. Visita aqui no escritório, com uma sessão de pair-programming.<br />
 **Duração:** de 1h à 1h30m
 
-\* Este processo pode ser alterado sem prévio aviso :-).
+\* Este processo pode ser alterado sem prévio aviso. Então, fique esperto com as atualizações deste README! :-)
 
 ### [Requisitos Básicos](id:RequisitosBasicos)
 Precisamos de gente que:
