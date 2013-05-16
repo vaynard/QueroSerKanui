@@ -40,7 +40,7 @@ Próximo a estação Villa Lobos - Jaguaré, em São Paulo, SP.
 
 
 ### [Como me candidato?](id:ComoMeCandidato)
-1. Forka esse projeto, escolha um dos [testes](#Testes), resolva com sua linguagem favorita e faça um pull-request. Junto do seu pull-request, adicione um link para seu curriculum, portfolio ou linkedin. Avaliaremos seu *PR* o quanto antes.<br />
+1. Forka esse projeto, escolha um dos [testes](#Testes), resolva com sua linguagem favorita e nos envie um e-mail para **vagas.dev@kanui.com.br** com o seu **fork** (link para o GitHub, BitBucket, tarball anexada, whatever). Junto do seu e-mail, adicione um link para seu curriculum, portfolio ou linkedin. Avaliaremos seu *fork* o quanto antes.<br />
 **Duração:** de 30m à 2h
 
 2. Com hora marcada, um dos membros do nosso time entrará em contato com você por telefone ou Skype, para uma conversa descontraída sobre suas habilidades.<br />
