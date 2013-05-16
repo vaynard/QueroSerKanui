@@ -149,7 +149,7 @@ Como Software Engineer no time CPS da Kanui, você irá criar e implementar solu
 * [Lightning Talk](http://en.wikipedia.org/wiki/Lightning_talk)'s;
 
 ## [Testes](id:Testes)
-Não existe necessidade de realizar todos os testes. Eles têm graus diferentes de complexidade, sendo assim, você poderá mostrar suas habilidades mais obscuras das Dark Arts (OO, Patterns, Aspect, um projeto com tudo que há de mais classudo, etc) ou um "gotcha" de lógica economizando o máximo de linhas possível! Use sua imaginação :)
+Não existe necessidade de realizar todos os testes. Eles têm graus diferentes de complexidade, sendo assim… 
 
 #### [Parte I](id:Testes-I)
 Aqui queremos apenas verificar sua lógica, não se preocupe com estruturas de dados complexas ou patterns. Nossa expectativa é um código objetivo!
