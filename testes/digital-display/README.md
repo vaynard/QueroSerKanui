@@ -13,7 +13,7 @@ Seu programa deverá parsear este tipo de entrada e gerar a saída como números
 
 	123456789
 
-Toda seqüência numérica terá 3 linhas, seguida por uma quarta linha em branco. A largura de cada dígito do formato é 3, sempre composta por **pipes**, **underlines** e **espaços** ('**|**', '**_**' e ' ', respectivamente); todo grupo de 3 primeiras linhas terá 9 dígitos, correspondendo a 27 caracteres. Porém é **importante** que seu programa esteja preparado para uma entrada como:
+Toda seqüência numérica terá 3 linhas, seguida por uma quarta linha em branco. A largura de cada dígito do formato é 3, sempre composta por **pipes**, **underlines** e **espaços** ('|', '_' e ' ', respectivamente); todo grupo de 3 primeiras linhas terá 9 dígitos, correspondendo a 27 caracteres. Porém é **importante** que seu programa esteja preparado para uma entrada como:
 
 <pre>
     _  _     _  _  _  _  _
