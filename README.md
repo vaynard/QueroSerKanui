@@ -149,8 +149,18 @@ Como Software Engineer no time CPS da Kanui, você irá criar e implementar solu
 * [Lightning Talk](http://en.wikipedia.org/wiki/Lightning_talk)'s;
 
 ## [Testes](id:Testes)
+Não existe necessidade de realizar todos os testes. Eles têm graus diferentes de complexidade, sendo assim, você poderá mostrar suas habilidades mais obscuras das Dark Arts (OO, Patterns, Aspect, um projeto com tudo que há de mais classudo, etc) ou um "gotcha" de lógica economizando o máximo de linhas possível! Use sua imaginação :)
+
+#### [Parte I](id:Testes-I)
+Aqui queremos apenas verificar sua lógica, não se preocupe com estruturas de dados complexas ou patterns. Nossa expectativa é um código objetivo!
+
 * [KaNois](https://github.com/Kanui/QueroSerKanui/tree/master/testes/kanois)
+
+#### [Parte II](id:Testes-II)
+Faça como se você fosse resolver um desses problemas em produção.
+
 * [Word Rank](https://github.com/Kanui/QueroSerKanui/tree/master/testes/word-rank)
+* [Digital Display](https://github.com/Kanui/QueroSerKanui/tree/master/testes/digital-display)
 
 
 ## [Nossos Links](id:Extra-Links)
