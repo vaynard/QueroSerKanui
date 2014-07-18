@@ -19,7 +19,7 @@ Agora, vamos lá:
 
 -------
 ### [Pera, mas o que é a Kanui?](id:OqueEhAKanui)
-A [Kanui](http://www.kanui.com.br), com menos de 2 anos de existência, já é um dos maiores e-commerces de artigos esportivos no Brasil. Nós somos uma venture do grupo [Rocket Internet](http://www.rocket-internet.de), um grupo alemão que é dono de empresas como a [Dafiti](http://www.dafiti.com.br), [Mobly](http://www.mobly.com.br), [Tricae](http://www.tricae.com.br), [EasyTaxi](http://www.easytaxi.com.br), [ZocPrint](http://www.zocprint.com.br), entre outras.
+A [Kanui](http://www.kanui.com.br), com menos de 3 anos de existência, já é um dos maiores e-commerces de artigos esportivos no Brasil. Nós somos uma venture do grupo [Rocket Internet](http://www.rocket-internet.de), um grupo alemão que é dono de empresas como a [Dafiti](http://www.dafiti.com.br), [Mobly](http://www.mobly.com.br), [Tricae](http://www.tricae.com.br), [EasyTaxi](http://www.easytaxi.com.br), [ZocPrint](http://www.zocprint.com.br), entre outras.
 
 ### [Sobre as vagas](id:SobreAsVagas)
 Estamos sempre procurando por talentos para compor nossa equipe altamente profissional e dinâmica. As posições na nossa equipe de desenvolvimento, vão desde engenharia de software de backend (passando por desafios de escalabilidade e performance da aplicação até novas features e formas de pagamento), até a engenharia de frontend (passando por desafios em usabilidade, escalabilidade de CSS e alta performance de Javascript). 
