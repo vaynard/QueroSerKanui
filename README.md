@@ -30,7 +30,7 @@ Próximo a estação Villa Lobos - Jaguaré, em São Paulo, SP.
 
 
 ### [Como me candidato?](id:ComoMeCandidato)
-1. Forka esse projeto, escolha um dos [testes](#Testes), resolva com sua linguagem favorita e nos envie um e-mail para **vagas.dev@kanui.com.br** com o seu **fork** (link para o GitHub, BitBucket, tarball anexada, whatever). Junto do seu e-mail, adicione um link para seu curriculum, portfolio ou linkedin. Avaliaremos seu *fork* o quanto antes.<br />
+1. Forka esse projeto, escolha um dos testes aleatórios do [DojoPuzzle](http://dojopuzzles.com/), resolva-o com sua linguagem favorita e nos envie um e-mail para **vagas.dev@kanui.com.br** com o seu **fork** (link para o GitHub, BitBucket, tarball anexada, whatever). Junto do seu e-mail, adicione um link para seu curriculum, portfolio ou linkedin. Avaliaremos seu *fork* o quanto antes.<br />
 **Duração:** de 30m à 2h
 
 2. Com hora marcada, um dos membros do nosso time entrará em contato com você por telefone ou Skype, para uma conversa descontraída sobre suas habilidades.<br />
@@ -116,21 +116,6 @@ Como Software Engineer, você irá criar e implementar soluções voltadas para 
 * Precisa de softwares ou equipamentos? Sem problemas.
 * [Coding Dojo](http://codingdojo.org/)'s mensais;
 * [Lightning Talk](http://en.wikipedia.org/wiki/Lightning_talk)'s;
-
-## [Testes](id:Testes)
-Não existe necessidade de realizar todos os testes. Eles têm graus diferentes de complexidade, sendo assim… 
-
-#### [Parte I](id:Testes-I)
-Aqui queremos apenas verificar sua lógica, não se preocupe com estruturas de dados complexas ou patterns. Nossa expectativa é um código objetivo!
-
-* [KaNois](https://github.com/Kanui/QueroSerKanui/tree/master/testes/kanois)
-
-#### [Parte II](id:Testes-II)
-Faça como se você fosse resolver um desses problemas em produção.
-
-* [Word Rank](https://github.com/Kanui/QueroSerKanui/tree/master/testes/word-rank)
-* [Digital Display](https://github.com/Kanui/QueroSerKanui/tree/master/testes/digital-display)
-
 
 ## [Nossos Links](id:Extra-Links)
 * [Kanui](http://www.kanui.com.br/)
