@@ -48,6 +48,6 @@ Neste repositório existe um arquivo **data.txt** que você pode usar em seu tes
 **Exemplo de saída**:
 	
 	123456789
-	621943579
+	621943578
 	/!\erro de formato/!\
 	000000666
