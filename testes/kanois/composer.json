@@ -1,0 +1,20 @@
+{
+    "name": "KaNois",
+    "description": "A simple test.",
+    "authors": [
+        {
+            "name": "Jhonatan Amorim",
+            "email": "amorim.dev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Kanui\\Kanois\\": "src/"}
+    },
+    "require": {
+        "php": "~5.5",
+        "phpunit/phpunit": "~4.5",
+        "silex/silex": "~1.2",
+        "twig/twig": "~1.18",
+        "symfony/twig-bridge": "~2.6"
+    }
+}
